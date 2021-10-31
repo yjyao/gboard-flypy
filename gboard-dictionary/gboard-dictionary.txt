@@ -30867,7 +30867,7 @@ oby	𧘇	zh-CN
 obz	⻊	zh-CN
 obz	廴	zh-CN
 obz	辶	zh-CN
-oc	”	zh-CN
+oc	」	zh-CN
 odsl	藕断丝连	zh-CN
 oe	偶尔	zh-CN
 ofbd	¨	zh-CN
@@ -30876,8 +30876,6 @@ ofbd	ˇ	zh-CN
 ofbd	ˉ	zh-CN
 ofbd	—	zh-CN
 ofbd	‖	zh-CN
-ofbd	‘’	zh-CN
-ofbd	“”	zh-CN
 ofbd	…	zh-CN
 ofbd	∶	zh-CN
 ofbd	、	zh-CN
@@ -31260,7 +31258,6 @@ ogkx	嗯	zh-CN
 ogt	欧共体	zh-CN
 ogti	欧共体	zh-CN
 oh	（	zh-CN
-oi	😊	zh-CN
 oj	）	zh-CN
 ok	《	zh-CN
 ol	》	zh-CN
@@ -31286,7 +31283,7 @@ oqfh	‰	zh-CN
 or	偶然	zh-CN
 orx	偶然性	zh-CN
 orxk	偶然性	zh-CN
-os	……	zh-CN
+os	…	zh-CN
 ot	呕吐	zh-CN
 ota	α	zh-CN
 ota	＆	zh-CN
@@ -31657,7 +31654,7 @@ oyw	Ⅴ	zh-CN
 oyw	⑤	zh-CN
 oyy	Ⅰ	zh-CN
 oyy	①	zh-CN
-oz	“	zh-CN
+oz	「	zh-CN
 p	平	zh-CN
 pa	怕	zh-CN
 pac	葩	zh-CN
