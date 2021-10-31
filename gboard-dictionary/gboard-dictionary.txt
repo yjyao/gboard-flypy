@@ -28,7 +28,7 @@ aap	阿婆	zh-CN
 aapo	阿婆	zh-CN
 aapp	矮矮胖胖	zh-CN
 aaqq	安安全全	zh-CN
-aavi	AA制	zh-CN
+aavi	 AA 制	zh-CN
 aaww	安安稳稳	zh-CN
 aaxx	安安心心	zh-CN
 aay	阿姨	zh-CN
@@ -11028,7 +11028,7 @@ gdng	戤	zh-CN
 gdnm	概念	zh-CN
 gdo	晐	zh-CN
 gdor	晐	zh-CN
-gdp	GDP	zh-CN
+gdp	 GDP 	zh-CN
 gdpi	刮地皮	zh-CN
 gdpj	改判	zh-CN
 gdpk	割地赔款	zh-CN
@@ -17980,7 +17980,7 @@ ioz	踔	zh-CN
 iozu	逴	zh-CN
 ip	产品	zh-CN
 ipdl	长篇大论	zh-CN
-ipdv	IP地址	zh-CN
+ipdv	 IP 地址	zh-CN
 ipld	长篇累牍	zh-CN
 ipxu	长篇小说	zh-CN
 iq	重启	zh-CN
@@ -23154,7 +23154,7 @@ klmw	框	zh-CN
 klnj	矿难	zh-CN
 klo	旷	zh-CN
 klog	旷	zh-CN
-klok	卡拉OK	zh-CN
+klok	卡拉 OK 	zh-CN
 klow	眶	zh-CN
 klpm	诓骗	zh-CN
 klq	狂	zh-CN
@@ -32936,7 +32936,7 @@ ppqq	乒乓球	zh-CN
 ppqw	翩翩起舞	zh-CN
 ppr	飘飘然	zh-CN
 pprj	飘飘然	zh-CN
-ppt	PPT	zh-CN
+ppt	 PPT 	zh-CN
 ppth	泡泡糖	zh-CN
 pptt	普普通通	zh-CN
 ppun	翩翩少年	zh-CN
@@ -45873,7 +45873,7 @@ vmz	这么早	zh-CN
 vmzc	这么早	zh-CN
 vmzy	装模作样	zh-CN
 vn	只能	zh-CN
-vna	智能ABC	zh-CN
+vna	智能 ABC 	zh-CN
 vne	执牛耳	zh-CN
 vnej	知难而进	zh-CN
 vner	执牛耳	zh-CN
