@@ -906,6 +906,7 @@ biut	壁	zh-CN
 biuu	辟	zh-CN
 biv	笔	zh-CN
 bivb	篦	zh-CN
+bivj	 B 站	zh-CN
 bivl	箅	zh-CN
 bivm	笔	zh-CN
 bivt	不吃这一套	zh-CN
